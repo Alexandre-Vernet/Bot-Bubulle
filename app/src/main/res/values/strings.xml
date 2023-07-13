@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Bot Bubulle</string>
+    <string name="canal" translatable="false">Daily notification</string>
+    <string name="icon" translatable="false">Icon</string>
+    <string name="phone_number" translatable="false">+33782101533</string>
+    <string name="message_sent">Message sent</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="error_while_sending_message">Error while sending message</string>
+    <string name="error_format_phone_number">There is an error in the phone number format</string>
+</resources>
